@@ -1,0 +1,35 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+}
+
+canvas{
+    margin-top: 25px;
+}
+
+.anchor{
+    
+    width: 60%;
+    height: 35px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px aqua;
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+a{
+    margin-top: 20px;
+    color: white;
+}
