@@ -1,0 +1,22 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to top right, #7dfcd1, #8dc7ee, #f5a3f1, #f3d687, #f57f7f);
+}
+
+canvas{
+    margin-top: 76px;
+}
