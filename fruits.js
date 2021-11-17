@@ -3,7 +3,7 @@ status = "";
 objects = [];
 
 function preload(){
-    img = loadImage("bedd.jpg");
+    img = loadImage("fruitbasket.jpg");
 }
 
 function setup(){
@@ -24,7 +24,7 @@ function draw(){
             noFill();
             stroke("#FF0000");
             rect(objects[i].x, objects[i].y, objects[i].width, objects[i].height);
-        document.getElementById("loaded").innerHTML = "There is 1 big objects in the image out of which " + objects.length + " been detected";
+        document.getElementById("loaded").innerHTML = "There are 7 big objects in the image out of which " + objects.length + " been detected";
        }
    }
 }
